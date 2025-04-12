@@ -8,7 +8,7 @@ from telegram.constants import ChatMemberStatus # For checking user/bot status
 # --- Configuration ---
 # Get your bot token from BotFather on Telegram
 # It's recommended to use environment variables for security
-BOT_TOKEN = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" # Replace with your token or set env variable
+BOT_TOKEN = "8051475949:AAHy394IA7n-u2fyxQj7mqsHvTqcyJYaIf4" # Replace with your token or set env variable
 
 # --- Logging Setup ---
 # Enable logging to see errors and bot activity
